@@ -2,6 +2,15 @@
 
 Retrieves the plain text transcript from any YouTube video with a manually-created captions (auto-generated captions not currently supported.)
 
+## You must install library python to used code
+
+pip install urllib3
+
+If you are on ubuntu,  $ sudo apt-get install libre2-dev is required prior to calling 
+```shell
+$ pip install re2
+```
+
 ## Usage
 
 ### Positional arguments
