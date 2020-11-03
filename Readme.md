@@ -9,6 +9,12 @@ pip install urllib3
 If you are on ubuntu,  $ sudo apt-get install libre2-dev is required prior to calling 
 ```shell
 $ pip install re2
+
+$ pip install argparse
+
+$ pip install urlparse4
+
+$ pip install subprocess.run
 ```
 
 ## Usage
